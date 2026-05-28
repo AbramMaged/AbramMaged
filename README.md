@@ -1,4 +1,4 @@
-# Hey, I'm Abram 👋
+# Hey, I'm Abram 🐽
 
 I build stuff on the go and then regret it later, learn by throwing myself headfirst
 
