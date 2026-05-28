@@ -6,7 +6,7 @@ Currently exploring:
 - 🎮 Game Development
 - 📊 Data Analytics/Machine Learning
 - 🎨 UI/UX Design with Figma
-- 🧠 Basically anything interesting
+- 🧠 anything interesting
 ---
 ### Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
