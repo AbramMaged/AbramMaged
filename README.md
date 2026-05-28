@@ -10,8 +10,8 @@ Currently exploring:
 - 🧠 Basically anything interesting
 ---
 ### Tech
-C++ • Python • CSS • Java(still learning)
 
+C++ • Python • CSS • Java(still learning)
 Figma • Illustrator • ibisPaint
 ---
 ## About Me                                                     
