@@ -25,7 +25,9 @@ Currently exploring:
                                               `-.~        ~.-'
 ```
 ## Current Goal
+
 Turning ideas into actual finished projects instead of opening 14 tabs and evolving into a dust collection
+
 ---
 - reach me: [discord](https://discord.com/users/698057466427998239) / [email](beromagedmrjustkidding@gmail.com
 ) / [instagram](https://www.instagram.com/_beromaged_/)
