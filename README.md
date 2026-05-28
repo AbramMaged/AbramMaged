@@ -18,7 +18,6 @@ Figma • Illustrator • ibisPaint
 - I stare at pig pictures in my free time 🐖            
 - I sometimes make ASCII art                            
 - I live off coffee and spite ☕                       
-- I like building random projects at unreasonable hours
---- 
+---
 ## Current Goal
 Turning ideas into actual finished projects instead of opening 14 tabs and evolving into a dust collection
