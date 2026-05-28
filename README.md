@@ -1,8 +1,6 @@
 
 # Hey, I'm Abram 👋
 
-### Game Dev • ML Student • Data Analytics Explorer
-
 I build stuff on the go and learn by throwing myself into projects headfirst.
 
 Currently exploring:
@@ -10,17 +8,12 @@ Currently exploring:
 - 📊 Data Analytics/Machine Learning
 - 🎨 UI/UX Design with Figma
 - 🧠 Basically anything interesting
-
 ---
-
 ### Tech
 C++ • Python • CSS • Java(still learning)
 Figma • Illustrator • ibisPaint
-
 ---
-
-## About Me
-                                                        
+## About Me                                                     
 - I stare at pig pictures in my free time 🐖            
 - I sometimes make ASCII art                            
 - I live off coffee and spite ☕                       
