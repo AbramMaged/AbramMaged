@@ -11,6 +11,7 @@ Currently exploring:
 ---
 ### Tech
 C++ • Python • CSS • Java(still learning)
+
 Figma • Illustrator • ibisPaint
 ---
 ## About Me                                                     
