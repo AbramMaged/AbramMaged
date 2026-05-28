@@ -18,11 +18,11 @@ Currently exploring:
 ![ibisPaint](https://img.shields.io/badge/ibisPaint-1E1E1E?style=for-the-badge)
 
 ## About Me
-
+```txt
 - I stare at pig pictures in my free time 🐖    (\v_____v/)
 - I sometimes make ASCII art like this:         /   @__@   \
 - I live off coffee and spite ☕               (    (oo)   )
-             reach me:                        `-.~ [💬](https://discord.com/users/698057466427998239) ~.-'
-
+- reach me:                                    `-.~ [💬](https://discord.com/users/698057466427998239) ~.-'
+```
 ## Current Goal
 Turning ideas into actual finished projects instead of opening 14 tabs and evolving into a dust collection
