@@ -1,7 +1,6 @@
-
 # Hey, I'm Abram 👋
 
-I build stuff on the go and learn by throwing myself into projects headfirst.
+I build stuff on the go and learn by throwing myself into projects headfirst
 
 Currently exploring:
 - 🎮 Game Development
@@ -11,13 +10,19 @@ Currently exploring:
 ---
 ### Tech
 
-C++ • Python • CSS • Java(still learning)
-Figma • Illustrator • ibisPaint
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![ibisPaint](https://img.shields.io/badge/ibisPaint-1E1E1E?style=for-the-badge)
 ---
 ## About Me                                                     
-- I stare at pig pictures in my free time 🐖            
-- I sometimes make ASCII art                            
-- I live off coffee and spite ☕                       
+- I stare at pig pictures in my free time 🐖  (\__/)
+- I sometimes make ASCII art like this:        (•ㅅ•)                  
+- I live off coffee and spite ☕               /   づ                        
 ---
 ## Current Goal
 Turning ideas into actual finished projects instead of opening 14 tabs and evolving into a dust collection
